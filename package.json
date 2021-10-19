@@ -1,5 +1,4 @@
 {
-  "homepage": "http://saksham003.github.io/Box-office-app",
   "name": "box-office",
   "version": "0.1.0",
   "private": true,
@@ -27,6 +26,7 @@
     "workbox-strategies": "^5.1.4",
     "workbox-streams": "^5.1.4"
   },
+  "homepage": "http://saksham003.github.io/Box-office-app/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
