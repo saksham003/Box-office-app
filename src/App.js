@@ -8,7 +8,7 @@ import Show from './pages/Show';
 
 const theme = {
   mainColors: {
-    blue: '#2400ff',
+    blue: '#1ABC9C',
     gray: '#c6c6c6',
     dark: '#353535',
   },
